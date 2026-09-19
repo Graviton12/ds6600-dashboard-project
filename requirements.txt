@@ -1,14 +1,9 @@
-# Pin your versions. "pandas" installs whatever is current the day
-# someone builds this; "pandas==2.2.3" installs what you tested against.
-# Get exact versions from your environment with: pip freeze
-
-pandas==2.2.3
-requests==2.32.3
-python-dotenv==1.0.1
-sqlalchemy==2.0.36
-psycopg[binary]==3.2.3
-pandera==0.32.1
-pytest==8.3.3
-plotly==5.24.1
-dash==2.18.2
-gunicorn==23.0.0
+pandas==3.0.6
+numpy==2.5.3
+matplotlib==3.11.2
+seaborn==0.13.2
+scikit-learn==1.9.1
+requests==2.34.2
+python-dotenv==1.2.3
+plotly==7.1.0
+dash==4.4.1
